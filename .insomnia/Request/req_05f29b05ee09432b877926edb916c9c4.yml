@@ -1,0 +1,34 @@
+_id: req_05f29b05ee09432b877926edb916c9c4
+type: Request
+parentId: wrk_bc9879e3bfd046259b6300bd99c0caea
+modified: 1681142502048
+created: 1681142151818
+url: www.naver.com
+name: New Request Doc
+description: write docs
+method: GET
+body: {}
+parameters:
+  - id: pair_40eaa04f47184991a649bc09918280c8
+    name: query1
+    value: query1
+    description: ""
+    disabled: false
+headers:
+  - id: pair_e571e00313a54962a9d49cca231738dc
+    name: header1
+    value: header1
+    description: ""
+  - id: pair_dc186f63f7c447cb81320b77c0dea5ef
+    name: header2
+    value: header2
+    description: ""
+authentication: {}
+metaSortKey: -1681142151818
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
